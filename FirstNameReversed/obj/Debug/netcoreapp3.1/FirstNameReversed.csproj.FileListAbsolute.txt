@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\WeekSevenAssignment\FirstNameReversed\bin\Debug\netcoreapp3.1\FirstNameReversed.exe
+C:\Users\opilane\source\repos\WeekSevenAssignment\FirstNameReversed\bin\Debug\netcoreapp3.1\FirstNameReversed.deps.json
+C:\Users\opilane\source\repos\WeekSevenAssignment\FirstNameReversed\bin\Debug\netcoreapp3.1\FirstNameReversed.runtimeconfig.json
+C:\Users\opilane\source\repos\WeekSevenAssignment\FirstNameReversed\bin\Debug\netcoreapp3.1\FirstNameReversed.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\WeekSevenAssignment\FirstNameReversed\bin\Debug\netcoreapp3.1\FirstNameReversed.dll
+C:\Users\opilane\source\repos\WeekSevenAssignment\FirstNameReversed\bin\Debug\netcoreapp3.1\FirstNameReversed.pdb
+C:\Users\opilane\source\repos\WeekSevenAssignment\FirstNameReversed\obj\Debug\netcoreapp3.1\FirstNameReversed.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\WeekSevenAssignment\FirstNameReversed\obj\Debug\netcoreapp3.1\FirstNameReversed.AssemblyInfo.cs
+C:\Users\opilane\source\repos\WeekSevenAssignment\FirstNameReversed\obj\Debug\netcoreapp3.1\FirstNameReversed.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\WeekSevenAssignment\FirstNameReversed\obj\Debug\netcoreapp3.1\FirstNameReversed.dll
+C:\Users\opilane\source\repos\WeekSevenAssignment\FirstNameReversed\obj\Debug\netcoreapp3.1\FirstNameReversed.pdb
+C:\Users\opilane\source\repos\WeekSevenAssignment\FirstNameReversed\obj\Debug\netcoreapp3.1\FirstNameReversed.genruntimeconfig.cache

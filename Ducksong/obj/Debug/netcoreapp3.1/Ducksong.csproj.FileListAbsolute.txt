@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\WeekSevenAssignment\Ducksong\bin\Debug\netcoreapp3.1\Ducksong.exe
+C:\Users\opilane\source\repos\WeekSevenAssignment\Ducksong\bin\Debug\netcoreapp3.1\Ducksong.deps.json
+C:\Users\opilane\source\repos\WeekSevenAssignment\Ducksong\bin\Debug\netcoreapp3.1\Ducksong.runtimeconfig.json
+C:\Users\opilane\source\repos\WeekSevenAssignment\Ducksong\bin\Debug\netcoreapp3.1\Ducksong.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\WeekSevenAssignment\Ducksong\bin\Debug\netcoreapp3.1\Ducksong.dll
+C:\Users\opilane\source\repos\WeekSevenAssignment\Ducksong\bin\Debug\netcoreapp3.1\Ducksong.pdb
+C:\Users\opilane\source\repos\WeekSevenAssignment\Ducksong\obj\Debug\netcoreapp3.1\Ducksong.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\WeekSevenAssignment\Ducksong\obj\Debug\netcoreapp3.1\Ducksong.AssemblyInfo.cs
+C:\Users\opilane\source\repos\WeekSevenAssignment\Ducksong\obj\Debug\netcoreapp3.1\Ducksong.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\WeekSevenAssignment\Ducksong\obj\Debug\netcoreapp3.1\Ducksong.dll
+C:\Users\opilane\source\repos\WeekSevenAssignment\Ducksong\obj\Debug\netcoreapp3.1\Ducksong.pdb
+C:\Users\opilane\source\repos\WeekSevenAssignment\Ducksong\obj\Debug\netcoreapp3.1\Ducksong.genruntimeconfig.cache
+C:\Users\opilane\source\repos\WeekSevenAssignment\Ducksong\obj\Debug\netcoreapp3.1\Ducksong.csprojAssemblyReference.cache
